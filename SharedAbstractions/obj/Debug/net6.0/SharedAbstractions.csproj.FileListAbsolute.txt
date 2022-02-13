@@ -1,0 +1,12 @@
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.csproj.AssemblyReference.cache
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.AssemblyInfoInputs.cache
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.AssemblyInfo.cs
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\bin\Debug\net6.0\SharedAbstractions.deps.json
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\bin\Debug\net6.0\SharedAbstractions.dll
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\bin\Debug\net6.0\ref\SharedAbstractions.dll
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\bin\Debug\net6.0\SharedAbstractions.pdb
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.dll
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\ref\SharedAbstractions.dll
+D:\Learning\Projects\LearningCleanArchitecture\SharedAbstractions\obj\Debug\net6.0\SharedAbstractions.pdb
